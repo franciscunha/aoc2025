@@ -2,7 +2,7 @@
 
 Solutions for 2025's advent of code, probably mostly in Python.
 
-
+```
        _____________,--,
       | | | | | | |/ .-.\   HANG IN THERE
       |_|_|_|_|_|_/ /   `.      SANTA
@@ -28,4 +28,6 @@ Solutions for 2025's advent of code, probably mostly in Python.
   |     |     |     |     |     |     |     |
 -' '---' '---' '---' '---' '---' '---' '---' '--
      |     |     |     |     |     |     |     |
+
                                 Art by Joan Stark
+```
